@@ -7,7 +7,7 @@ Here are some ideas to get you started:
   
 - 🔭 I’m currently looking for opportunities to find a future job to enhance my skills and continue on the path to becoming a Devops Engineer.
 - 🌱 I’m currently learning Information Technology at the University of Transport Ho Chi Minh City.
-- 👯 I’m looking to make a workshop about Devops and Cloud AWS. 
+- 👯 I’m going to make a workshop about Devops and Cloud AWS. 
 - 🤔 Throughout my education, I have learned the importance of teamwork and supporting other students in achieving their goals. 
 - 💬 Ask me about Devops.
 - 📫 How to reach me: You can contact me via Facebook or Linkedin.
