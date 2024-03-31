@@ -1,9 +1,9 @@
 ### Hi there 👋
-
 <!--
 **thnbao22/thnbao22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+-->
   
 - 🔭 I’m currently am looking for opportunities to find a future job to enhance my skills and continue on the path to becoming a Devops Engineer.
 - 🌱 I’m currently learning Information Technology at the University of Transport Ho Chi Minh Cỉty
@@ -13,7 +13,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: Charles Thien
 - ⚡ Fun fact: ...
--->
 
 
 
