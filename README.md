@@ -14,6 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: You can call me Charles Thien.
 - ⚡ Fun fact: I'm single.
 
+## Workshop AWS
+
+[Workshop-AWS-FCJ-Mission1](https://thnbao22.github.io/Workshop-AWS-FCJ-Mission1/)
+
+[Workshop-AWS-FCJ-Mission2](https://thnbao22.github.io/Workshop-AWS-FCJ-Mission2/)
 
 
 ## 🌐Socials
